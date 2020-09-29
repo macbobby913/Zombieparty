@@ -1,2 +1,2 @@
 # Zombieparty
-pygame
+A 2D platformer game made with pygame, written in python. 
